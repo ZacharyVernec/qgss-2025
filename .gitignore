@@ -1,3 +1,16 @@
+# Environment variables(Protected)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
+*.env
+*qgss.env
+*default.env  
+*.env.development
+*.env.test
+*.env.production
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
